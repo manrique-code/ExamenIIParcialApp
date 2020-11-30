@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">examenIIParcialSergioRios</string>
+    <string name="saludo">Bienvenido</string>
+    <string name="email">Usuario</string>
+    <string name="recomendacionLogin">Inicie sesión para continuar</string>
+    <string name="contra">Contraseña</string>
+    <string name="login">LOGIN</string>
+    <string name="contraIncorrecta">Usuario o contraseña incorrectos</string>
+    <string name="escribirMensaje">Escribir mensaje</string>
+    <string name="publicar">Publicar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="pensamiento">¿Qué está pasando?</string>
+    <string name="tema">¿De qué tema querés hablar?</string>
+    <string name="logout">Cerrar sesión</string>
 </resources>
